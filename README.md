@@ -1,19 +1,11 @@
 # Penetration Testing Labs
 
-Raccolta di attività pratiche svolte durante il mio percorso di formazione in cybersecurity, in ambienti controllati e a scopo didattico.
+Raccolta di alcune attività pratiche svolte durante il mio percorso di formazione in Cybersecurity.
 
-## Attività svolte
-- Information gathering e OSINT
-- Scanning ed enumeration
-- Port scanning e vulnerability assessment
-- Analisi di servizi e protocolli di rete
-- Simulazione di attacchi su Telnet, FTP e SSH
-- Simulazione di attacchi brute force
+I laboratori presenti documentano esercitazioni realizzate esclusivamente in ambienti controllati e autorizzati.
 
-## Strumenti
-- Kali Linux
-- Nmap
-- Wireshark
-- Metasploit
+## Labs
 
-> Tutte le attività sono state svolte esclusivamente in ambienti di laboratorio e su sistemi autorizzati.
+I singoli laboratori includono obiettivo, ambiente utilizzato, attività svolte e risultati ottenuti.
+
+
