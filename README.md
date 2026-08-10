@@ -20,3 +20,8 @@ Vulnerability assessment della macchina Metasploitable tramite Nessus, con anali
 
 Analisi con Wireshark del traffico generato durante una simulazione DoS in ambiente controllato, utilizzando Colasoft Packet Builder.
 
+
+### 🎣 [Phishing Simulation](phishing-simulation)
+
+Simulazione di una campagna di phishing in ambiente controllato tramite SET Toolkit e utilizzo introduttivo di GoPhish.
+
