@@ -10,3 +10,8 @@ I laboratori presenti documentano esercitazioni realizzate esclusivamente in amb
 
 Enumerazione di servizi di rete in ambiente virtualizzato con Nmap e Metasploit, con analisi di FTP, SSH e Telnet.
 
+
+### 🛡️ [Vulnerability Assessment](vulnerability-assessment)
+
+Vulnerability assessment della macchina Metasploitable tramite Nessus, con analisi delle vulnerabilità rilevate e generazione del report finale.
+
