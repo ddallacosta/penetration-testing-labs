@@ -15,3 +15,8 @@ Enumerazione di servizi di rete in ambiente virtualizzato con Nmap e Metasploit,
 
 Vulnerability assessment della macchina Metasploitable tramite Nessus, con analisi delle vulnerabilità rilevate e generazione del report finale.
 
+
+### 📊 [Network Traffic Analysis](network-traffic-analysis)
+
+Analisi con Wireshark del traffico generato durante una simulazione DoS in ambiente controllato, utilizzando Colasoft Packet Builder.
+
