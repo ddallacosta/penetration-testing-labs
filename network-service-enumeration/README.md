@@ -47,3 +47,13 @@ Analisi della versione del servizio Telnet sulla porta 23:
 Il laboratorio mi ha permesso di applicare un processo di enumeration e vulnerability assessment, partendo dall'individuazione dei servizi esposti fino alla verifica pratica delle vulnerabilità individuate.
 
 > Tutte le attività descritte sono state eseguite esclusivamente su macchine virtuali di laboratorio predisposte a scopo formativo e in un ambiente autorizzato.
+
+## Evidenze del laboratorio
+
+### Network enumeration con Nmap
+
+![Network enumeration con Nmap](01-nmap-enumeration.jpg)
+
+### Accesso Telnet alla macchina Metasploitable
+
+![Accesso Telnet alla macchina Metasploitable](02-telnet-lab-access.jpg)
