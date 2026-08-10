@@ -6,6 +6,7 @@ I laboratori presenti documentano esercitazioni realizzate esclusivamente in amb
 
 ## Labs
 
-I singoli laboratori includono obiettivo, ambiente utilizzato, attività svolte e risultati ottenuti.
+### 🔎 [Network Service Enumeration](network-service-enumeration)
 
+Enumerazione di servizi di rete in ambiente virtualizzato con Nmap e Metasploit, con analisi di FTP, SSH e Telnet.
 
