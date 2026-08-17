@@ -23,8 +23,5 @@ Generare traffico di rete in un ambiente di laboratorio controllato e analizzarn
 
 Il laboratorio mi ha permesso di osservare tramite Wireshark gli effetti di una simulazione DoS sul traffico di rete e di approfondire l'analisi dei pacchetti in un ambiente controllato.
 
-## Evidenze del laboratorio
-
-*Screenshot del laboratorio in aggiornamento.*
 
 > Tutte le attività descritte sono state eseguite esclusivamente in un ambiente di laboratorio controllato e a scopo formativo.
